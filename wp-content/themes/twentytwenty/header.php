@@ -58,9 +58,10 @@
 
 					<div class="header-titles">
 
+						<h1>Hello World!!!</h1>
 						<?php
 							// Site title or logo.
-							twentytwenty_site_logo();
+							// twentytwenty_site_logo();
 
 							// Site description.
 							twentytwenty_site_description();
